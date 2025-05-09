@@ -1,16 +1,16 @@
 # Hi, there, I'm Mohamed Muhumed Rage
 
-![Banner Image](your_banner_image_url_here)
+https://www.linkedin.com/in/mohamed-muhumed-rage-1465251a3/?trk=opento_sprofile_details
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Junior Developer** with experience in **HTML5, CSS, JavaScript and React**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **JavaScript, React and Nodejs**
+- 🔭 Working on: **Working on my portfolio**
+- 🌍 Languages: **JavaScript, English, Somali and Swahili**
+- 📫 How to reach me: **mohamedmuhumed001@gmail.com**
+- ⚡ Fun fact: **I love Coding**
 
 ## My Skills 🧠
 
@@ -20,7 +20,6 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
@@ -39,7 +38,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 ## Get in Touch 📬
 
 - **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]** https://www.linkedin.com/in/mohamed-muhumed-rage-1465251a3/?trk=opento_sprofile_details
+- **[Twitter]**
 
 
